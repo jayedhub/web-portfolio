@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+}
+.name{
+    color: orange;
+}
+.half{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.half img{
+    width: 130%;
+}
